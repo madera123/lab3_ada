@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__producer_consumer.o
+[PROJECT FILES]
+D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr
+20230330073232 a9daa7cc47913dd177ff53858cdf898e
+[BOUND OBJECT FILES]
+D:\studi\paralel\3\producer_consumer_ada-master\obj\producer_consumer.o
+[GENERATED SOURCE FILES]
+b__producer_consumer.ads
+b__producer_consumer.adb
+b__producer_consumer.ali
+[RESULTING OPTIONS]
+-LD:\studi\paralel\3\producer_consumer_ada-master\obj\
+-LD:\studi\paralel\3\producer_consumer_ada-master\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
