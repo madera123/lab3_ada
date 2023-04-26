@@ -42,7 +42,7 @@ RV MAX_TASK_ENTRIES=1
 RV MAX_TASKS=1+
 RV MAX_ENTRY_QUEUE_LENGTH=1+
 
-U producer_consumer%b	producer_consumer.adb	b2a568cc NE OO SU
+U producer_consumer%b	producer_consumer.adb	79d0e089 NE OO SU
 W ada%s			ada.ads			ada.ali
 Z ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
 W ada.containers%s	a-contai.ads		a-contai.ali
@@ -109,7 +109,7 @@ D interfac.ads		20210520051132 edec285f interfaces%s
 D i-c.ads		20210520051132 d9beded9 interfaces.c%s
 D i-cstrin.ads		20210520051132 341d0ddf interfaces.c.strings%s
 D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
-D producer_consumer.adb	20230413011124 41e244f8 producer_consumer%b
+D producer_consumer.adb	20230421004632 8a97ccbd producer_consumer%b
 D system.ads		20210520051136 2ffa5114 system%s
 D s-addima.ads		20210520051132 a1ec9d3a system.address_image%s
 D s-atacco.ads		20210520051132 4c36d12f system.address_to_access_conversions%s
@@ -182,9 +182,9 @@ X 23 g-semaph.ads
 58Y13 Seize 28|33s26 34s28 54s27 55s28
 63U17 Release 28|39s28 40s27 65s28 66s26
 X 28 producer_consumer.adb
-7U11*Producer_Consumer 7b11 84l5 84t22
+7U11*Producer_Consumer 7b11 88l5 88t22
 8K12 String_Lists[7|47] 9r8
-11U14 Starter 11b14 11>23 11>50 80l8 80t15 83s4
+11U14 Starter 11b14 11>23 11>50 84l8 84t15 87s4
 11i23 Storage_Size{integer} 14r44
 11i50 Item_Numbers{integer}
 12r7 Storage{7|54R9[8]} 36m13 36r13 58r48 63m13 63r13
@@ -192,10 +192,10 @@ X 28 producer_consumer.adb
 14w7 Full_Storage{23|47W19} 33r13 66r13
 15w7 Empty_Storage{23|47W19} 40r13 54r13
 17T17 Producer 19e10 25b17 29m15 44l11 44t19 73r26
-18Y16 Start 18>22 28b19 30l16 30t21 78s15
+18Y16 Start 18>22 28b19 30l16 30t21 81s15
 18i22 Item_Numbers{integer} 29r40
 21T17 Consumer 23e10 46b17 50m15 71l11 71t19 72r27
-22Y16 Start 22>22 49b19 51l16 51t21 77s15
+22Y16 Start 22>22 49b19 51l16 51t21 78s15
 22i22 Item_Numbers{integer} 50r40
 26i12 Item_Numbers{integer} 29m24 32r24
 28i26 Item_Numbers{integer}
@@ -204,10 +204,12 @@ X 28 producer_consumer.adb
 49i26 Item_Numbers{integer}
 53i14 i{integer}
 58a16 item{string} 60r36
-72a7 C(21T17) 76r17 77r10
-73a7 P(17T17) 78r10
-74a7 Col(integer) 77r21 78r21
-76i11 i{integer} 77r12 77r25 78r12 78r25
+72a7 C(21T17) 77r17 78r10
+73a7 P(17T17) 80r17 81r10
+74a7 ColC(integer) 78r21
+75a7 ColP(integer) 81r21
+77i11 i{integer} 78r12 78r26
+80i11 i{integer} 81r12 81r26
 X 29 system.ads
 67M9*Address
 100I12*Any_Priority{integer}

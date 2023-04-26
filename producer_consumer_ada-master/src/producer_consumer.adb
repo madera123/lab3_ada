@@ -70,13 +70,17 @@ procedure Producer_Consumer is
 
       end Consumer;
       C : array (1..3) of Consumer;
-      P :array (1..3) of Producer;
-      Col:array(1..3) of Integer:=(2,3,5);
+      P :array (1..4) of Producer;
+      ColC:array(1..3) of Integer:=(2,3,5);
+      ColP:array(1..4) of Integer:=(2,3,4,1);
    begin
       for i in  C'Range loop
-         C(i).Start(Col(i));
-         P(i).Start(Col(i));
+         C(i).Start(ColC(i));
       end loop;
+      for i in  P'Range loop
+         P(i).Start(ColP(i));
+      end loop;
+
    end Starter;
 
 begin

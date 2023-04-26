@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project>
-    <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_file>
+  <Project >
     <file_marker column=" 1" line=" 1" >
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
@@ -130,7 +129,7 @@
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 10" line=" 70" >
+    <file_marker column=" 1" line=" 70" >
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
@@ -138,7 +137,7 @@
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 10" line=" 70" >
+    <file_marker column=" 1" line=" 70" >
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
@@ -146,7 +145,7 @@
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 10" line=" 70" >
+    <file_marker column=" 1" line=" 70" >
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
@@ -222,7 +221,19 @@
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 14" line=" 11" >
+    <file_marker column=" 14" line=" 11" >
+      <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
+      <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
+      <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 17" >
+      <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
+      <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 26" line=" 73" >
       <vfs_project>D:\studi\paralel\3\producer_consumer_ada-master\producer_consumer.gpr</vfs_project>
       <vfs_file>D:\studi\paralel\3\producer_consumer_ada-master\src\producer_consumer.adb</vfs_file>
     </file_marker>
